@@ -1,0 +1,25 @@
+# create a Lennard-Jones fluid
+units lj
+atom_style atomic
+lattice fcc 0.8442
+region box block 0 20 0 20 0 20
+create_box 1 box
+create_atoms 1 box
+mass 1 1.0
+velocity all create 1.44 87287 loop geom
+pair_style lj/cut 2.5
+pair_coeff 1 1 1.0 1.0 2.5
+neighbor 0.3 bin
+neigh_modify delay 0 every 20 check no
+
+# define a group of atoms
+group fluid type 1
+
+# dump atom coordinates every 100 timesteps to atoms.bp
+dump adios1 fluid atom/adios 100 atoms.bp
+
+# dump custom quantities every 50 timesteps to custom.bp
+dump adios2 fluid custom/adios 50 custom.bp id type x y z vx vy vz
+
+# run the simulation for 1000 timesteps
+run 1000
