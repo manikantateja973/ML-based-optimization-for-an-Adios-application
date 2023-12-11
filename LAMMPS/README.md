@@ -227,3 +227,5 @@ class Lammps(Application):
         print(f'Removing {output_dir}')
         Rm(output_dir)
 ```
+# Jarvis config folder
+Each jarvis package needs have a configuration folder "config" which stored the adios2.xml and other necessary files. In LAMMPS's case it also stores the ```adios2_config.xml```
