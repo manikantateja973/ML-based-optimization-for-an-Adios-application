@@ -121,6 +121,7 @@ atoms.bp
 Note that a file ```adios2_config.xml``` with specific configuration settings is expected in the current working directory. If the file is not present, LAMMPS will create a minimal default file.
 
 # Jarvis script for LAMMPS
+The below script is used for the creations of "Jarvis package" which the way the HPC application is referred in Jarvis.
 ```python
 """This is a module for LAMMPS app"""
 from jarvis_cd.basic.pkg import Application
