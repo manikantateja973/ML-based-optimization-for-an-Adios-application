@@ -4,7 +4,7 @@ This repository is divided into three sections for each of the HPC application a
 
 * [WRF](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/WRF)
 * [LAMMPS](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/LAMMPS)
-* [OpenFOAM]
+* [OpenFOAM](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/OpenFOAM)
 
 # Dependencies
 ## Hermes installation
