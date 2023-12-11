@@ -124,5 +124,4 @@ The ```adios2.xml``` configures the WRF for ADIOS2 configuration and ```namelist
 
 [adios2.xml](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/WRF/adios2.xml)
 
-
-namelist.input
+[namelist.input](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/WRF/adios2.xml](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/WRF/namelist.input))
