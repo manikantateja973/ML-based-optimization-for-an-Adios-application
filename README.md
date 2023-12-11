@@ -6,8 +6,9 @@ This repository is divided into three sections for each of the HPC application a
 * [LAMMPS](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/LAMMPS)
 * [OpenFOAM]
 
-# Hermes installation
+# Dependencies
+## Hermes installation
 
-# Coeus-adapter installation
+## Coeus-adapter installation
 
-# Jarvis-cd installtion
+## Jarvis-cd installtion
