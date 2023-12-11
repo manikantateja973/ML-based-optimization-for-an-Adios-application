@@ -17,3 +17,8 @@ Jarvis-cd is the orchestration and deployment software used for this project to 
 
 
 ## Coeus-adapter installation
+
+## Future work
+* Deployment of other HPC applications using Jarivs
+* Refinement of data collection as a singular log file from Coeus-adapter
+* Building and ML model to perform PCA analysis
