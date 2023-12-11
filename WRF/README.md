@@ -7,6 +7,7 @@ https://github.com/grc-iit/jarvis-cd/wiki/7.5.-WRF
 
 ## Jarvis Scripts
 Each HPC application needs its own jarvis script as the input parameters vary for each. Here is the Jarvis script for WRF version 4.5.1
+The below script is used for the creations of "Jarvis package" which the way the HPC application is referred in Jarvis.
 ```python
 
 """
