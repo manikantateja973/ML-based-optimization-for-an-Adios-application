@@ -9,6 +9,11 @@ This repository is divided into three sections for each of the HPC application a
 # Dependencies
 ## Hermes installation
 
-## Coeus-adapter installation
 
-## Jarvis-cd installtion
+## Jarvis-cd installation
+Jarvis-cd is the orchestration and deployment software used for this project to deploy and execute HPC applications. You can find the installation of this software here:
+
+[Jarvis-cd](https://github.com/grc-iit/jarvis-cd/)
+
+
+## Coeus-adapter installation
