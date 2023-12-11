@@ -8,16 +8,19 @@ This repository is divided into three sections for each of the HPC application a
 
 # Dependencies
 This project requires the following dependencies to be installated.
-## Hermes installation
 
+## Hermes 
+Hermes is a heterogeneous-aware, multi-tiered, dynamic, and distributed I/O buffering system that aims to significantly accelerate I/O performance.
+Installation of Hermes can be done using:
+[Hermes](https://github.com/HDFGroup/hermes/blob/master/README.md)
 
-## Jarvis-cd installation
+## Jarvis-cd 
 Jarvis-cd is the orchestration and deployment software used for this project to deploy and execute HPC applications. You can find the installation of this software here:
 
 [Jarvis-cd](https://github.com/grc-iit/jarvis-cd/)
 
 
-## Coeus-adapter installation
+## Coeus-adapter
 
 ## Future work
 * Deployment of other HPC applications using Jarivs
