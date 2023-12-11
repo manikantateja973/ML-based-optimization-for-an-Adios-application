@@ -120,3 +120,7 @@ atoms.bp
 ```
 Note that a file ```adios2_config.xml``` with specific configuration settings is expected in the current working directory. If the file is not present, LAMMPS will create a minimal default file.
 
+# Jarvis script for LAMMPS
+```python
+
+```
