@@ -231,3 +231,8 @@ class Lammps(Application):
 Each jarvis package needs have a configuration folder "config" which stored the adios2.xml and other necessary files. In LAMMPS's case it also stores the ```adios2_config.xml```
 
 [config folder](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/LAMMPS/config/adios2_config.xml)
+
+# Metadata 
+The metadata is collected by running the application on varying processes using coeus-adapter is stored in this directory
+
+[metadata](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/Metadata)
