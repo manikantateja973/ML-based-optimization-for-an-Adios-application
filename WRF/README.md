@@ -117,3 +117,5 @@ class Wrf45(Application):
         pass
 
 ```
+Each jarvis package needs have a configuration folder "config" which stored the ```adios2.xml``` and other necessary files. In WRF's case it also stores the ```namelist.input``` file
+The ```adios2.xml``` configures the WRF for ADIOS2 configuration and ```namelist.input``` decides parameters like frames per output, output location,etc. 
