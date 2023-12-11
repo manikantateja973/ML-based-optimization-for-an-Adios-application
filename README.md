@@ -15,6 +15,8 @@ Installation of Hermes can be done using:
 
 [Hermes](https://github.com/HDFGroup/hermes/blob/master/README.md)
 
+Note: The latest version of the Hermes has to installed for smooth integration with Coeus-adapter
+
 ## Jarvis-cd 
 Jarvis-cd is the orchestration and deployment software used for this project to deploy and execute HPC applications. You can find the installation of this software here:
 
