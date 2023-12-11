@@ -122,6 +122,6 @@ Each jarvis package needs have a configuration folder "config" which stored the 
 The ```adios2.xml``` configures the WRF for ADIOS2 configuration and ```namelist.input``` decides parameters like frames per output, output location,etc. 
 
 
-[adios2.xml](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/WRF/adios2.xml)
+[adios2.xml](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/WRF/config/adios2.xml)
 
 [namelist.input](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/WRF/namelist.input)
