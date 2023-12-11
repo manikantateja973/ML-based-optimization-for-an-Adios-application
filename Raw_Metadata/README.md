@@ -62,3 +62,5 @@ write_to_csv(parsed_data, '32procs.csv')
 
 print("CSV file has been created successfully.")
 ```
+
+The converted files are stored in this folder: [metadata](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/Metadata)
