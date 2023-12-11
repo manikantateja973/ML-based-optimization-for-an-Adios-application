@@ -24,7 +24,9 @@ Jarvis-cd is the orchestration and deployment software used for this project to 
 
 
 ## Coeus-adapter
+COEUS Hermes Adios Engine is an adapter which connects ADIOS to Hermes through the use of the ADIOS plugins interface.
 
+[Coeus-adapter](https://github.com/grc-iit/coeus-adapter)
 ## Future work
 * Deployment of other HPC applications using Jarivs
 * Refinement of data collection as a singular log file from Coeus-adapter
