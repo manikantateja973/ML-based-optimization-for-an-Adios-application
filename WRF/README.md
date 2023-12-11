@@ -7,7 +7,8 @@ https://github.com/grc-iit/jarvis-cd/wiki/7.5.-WRF
 
 ## Jarvis Scripts
 Each HPC application needs its own jarvis script as the input parameters vary for each. Here is the Jarvis script for WRF version 4.5.1
-'''python
+```python
+
 """
 This module provides classes and methods to launch the Wrf45 application.
 Wrf45 is ....
@@ -115,4 +116,4 @@ class Wrf45(Application):
         """
         pass
 
-'''
+```
