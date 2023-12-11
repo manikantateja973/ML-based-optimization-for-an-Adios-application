@@ -3,3 +3,5 @@ Term project for CS553 Cloud Computing at Illinois Tech. This project deals with
 This repository is divided into three sections for each of the HPC application and then the data collected for the LAMMPS when integrated with COEUS-ADAPTER. 
 
 * [WRF](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/WRF)
+* [LAMMPS](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/tree/main/LAMMPS)
+* [OpenFOAM]
