@@ -1,5 +1,7 @@
 This directory contains the raw metadata collected when running LAMMPS at various number of processes. The raw data is collected in ```.txt``` format.
 
+## Conversion of above text file to csv files
+CSV files are mostly used for PCA or data analysis, hence these files are coverted into ``.csv`` files using the below python script:
 
 ```python
 import csv
