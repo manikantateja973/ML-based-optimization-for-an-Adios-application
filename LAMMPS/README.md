@@ -229,3 +229,4 @@ class Lammps(Application):
 ```
 # Jarvis config folder
 Each jarvis package needs have a configuration folder "config" which stored the adios2.xml and other necessary files. In LAMMPS's case it also stores the ```adios2_config.xml```
+[config folder](https://github.com/manikantateja973/Build-an-ML-based-optimization-for-an-Adios-application/blob/main/LAMMPS/config/adios2_config.xml)
